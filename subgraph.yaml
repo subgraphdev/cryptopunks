@@ -1,6 +1,6 @@
 specVersion: 0.0.5
 description: This is subgraph for CryptoPunks NFT collection.
-repositiry:
+repositiry: https://github.com/subgraphdev/cryptopunks
 schema:
   file: ./schema.graphql
 dataSources:
